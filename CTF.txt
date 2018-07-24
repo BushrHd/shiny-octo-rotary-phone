@@ -1,0 +1,19 @@
+In Vignere ciphere.
+The longest key the more complicated ciphered word.
+
+Bee 2007 animation movie, Rock dog, Leap 
+
+================================================
+Memmory Errors/ Buffer overflows 
+
+1- Look for where data is input into that program.
+2- Trace that data.
+3- Build a model for the data the program recieves.
+4- Start playing in if Cases, 
+    What if this was >0 or very huge number.
+
+   your debugger might help you more than the IDE.
+
+
+
+
